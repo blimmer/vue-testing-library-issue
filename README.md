@@ -21,3 +21,5 @@ node_modules/@testing-library/vue/types/index.d.ts:53:9 - error TS1005: ',' expe
 
 Found 3 errors.
 ```
+
+See https://github.com/testing-library/vue-testing-library/pull/241 for a proposed fix
